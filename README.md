@@ -7,7 +7,7 @@ The objective of this project is to analyze and visualize workforce data using P
 ![Screenshot 2025-06-13 190945](https://github.com/mayurpatil4103/HR_Analytics_Dashboard/blob/main/Screenshot%202025-06-13%20190945.png )
 
 ## Dataset Used
-- <a href="https://github.com/mayurpatil4103/HR_Analytics_Dashboard/blob/main/HR_Analytics.csv">HR_Analytics
+- <a href="https://github.com/mayurpatil4103/HR_Analytics_Dashboard/blob/main/HR_Analytics.csv">HR_Analytics.csv
 
 ## KPIs
 
